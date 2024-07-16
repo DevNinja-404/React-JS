@@ -1,2 +1,2 @@
-# React-JS
+# React
 A repo for React
